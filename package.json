@@ -1,0 +1,11 @@
+{
+  "name": "cdp-recruitment-javascript",
+  "description": "",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest -i --colors --verbose --forceExit"
+  },
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
